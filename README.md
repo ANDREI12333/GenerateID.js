@@ -4,5 +4,5 @@ GenerateID.js is a simple javascript library for generating simple and short ids
 # Installing...
 Paste this code inside your html file
 ```
-<script src="https://github.com/ANDREI12333/GenerateID.js/releases/download/1.0.0/GenerateID.js"></script>
+<script src="https://us-east-1.tixte.net/uploads/andrei12333.tixte.co/GenerateID.js"></script>
 ```
